@@ -6,8 +6,8 @@ from datetime import datetime
 from PIL import ImageTk,Image
 
 #constants
-My_Lat=23.250630
-My_Long=87.060439
+My_Lat=0.0      # add your own
+My_Long=0.0     # add your own
 Null_Lat=495
 Null_Long=470
 iss_prev=None
